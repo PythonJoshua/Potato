@@ -20,7 +20,7 @@ A lack of equal rights for potatoes led to a disease spreading between them and 
 You too can continue this tradition of forking potatoes in the modern age by clicking the button above labeled "fork."
 
 Pull Requests
--------------
+--------------
 
 If you have forked the potato and are looking to submit a pull request, please adhere to the following rules.
 
